@@ -13,6 +13,7 @@
 * Flavia Andrea Pereira Medin
 * Ruan Carlos Batista de Souza Araujo
 * Giovanni Monteiro Pereira Walter
+* Leonardo Henrique Maciel Ferreira
 
 ### ✅ Tecnologias utulizadas
 
